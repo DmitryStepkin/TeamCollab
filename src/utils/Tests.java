@@ -6,4 +6,9 @@ public class Tests {
     // tc145
 
     // working tc125
+
+
+    public static void main(String[] args) {
+      //  MainUtils.coolMethod();
+    }
 }
